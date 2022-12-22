@@ -1,0 +1,1 @@
+/*Write a program to count number of characters, tabs, newline characters available in agiven text file.*/
